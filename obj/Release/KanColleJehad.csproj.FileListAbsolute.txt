@@ -1,0 +1,11 @@
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\bin\Release\KanColleJehad.exe.manifest
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\bin\Release\KanColleJehad.application
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\bin\Release\KanColleJehad.exe
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\bin\Release\KanColleJehad.pdb
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Release\KanColleJehad.Form1.resources
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Release\KanColleJehad.Properties.Resources.resources
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Release\KanColleJehad.csproj.GenerateResource.Cache
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Release\KanColleJehad.exe.manifest
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Release\KanColleJehad.application
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Release\KanColleJehad.exe
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Release\KanColleJehad.pdb

@@ -1,0 +1,8 @@
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\bin\Debug\KanColleJehad.exe
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\bin\Debug\KanColleJehad.pdb
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Debug\KanColleJehad.csprojResolveAssemblyReference.cache
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Debug\KanColleJehad.Form1.resources
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Debug\KanColleJehad.Properties.Resources.resources
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Debug\KanColleJehad.csproj.GenerateResource.Cache
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Debug\KanColleJehad.exe
+c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Debug\KanColleJehad.pdb
