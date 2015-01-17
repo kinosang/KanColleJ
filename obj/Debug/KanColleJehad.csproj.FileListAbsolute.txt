@@ -6,3 +6,15 @@ c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJeha
 c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Debug\KanColleJehad.csproj.GenerateResource.Cache
 c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Debug\KanColleJehad.exe
 c:\users\delton\documents\visual studio 2013\Projects\KanColleJehad\KanColleJehad\obj\Debug\KanColleJehad.pdb
+C:\Dropbox\KanColleJ\obj\Debug\KanColleJehad.exe
+C:\Dropbox\KanColleJ\obj\Debug\KanColleJehad.pdb
+C:\Dropbox\KanColleJ\bin\Debug\KanColleJehad.exe.manifest
+C:\Dropbox\KanColleJ\bin\Debug\KanColleJehad.application
+C:\Dropbox\KanColleJ\bin\Debug\KanColleJehad.exe
+C:\Dropbox\KanColleJ\bin\Debug\KanColleJehad.pdb
+C:\Dropbox\KanColleJ\obj\Debug\KanColleJehad.csprojResolveAssemblyReference.cache
+C:\Dropbox\KanColleJ\obj\Debug\KanColleJehad.Form1.resources
+C:\Dropbox\KanColleJ\obj\Debug\KanColleJehad.Properties.Resources.resources
+C:\Dropbox\KanColleJ\obj\Debug\KanColleJehad.csproj.GenerateResource.Cache
+C:\Dropbox\KanColleJ\obj\Debug\KanColleJehad.exe.manifest
+C:\Dropbox\KanColleJ\obj\Debug\KanColleJehad.application
