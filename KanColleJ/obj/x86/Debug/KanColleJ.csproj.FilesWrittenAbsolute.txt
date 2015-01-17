@@ -1,0 +1,8 @@
+/Volumes/Transcend/Development/dotNet/KanColleJ/KanColleJ/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/Transcend/Development/dotNet/KanColleJ/KanColleJ/obj/x86/Debug/KanColleJ.gtk-gui.gui.stetic
+/Volumes/Transcend/Development/dotNet/KanColleJ/KanColleJ/obj/x86/Debug/KanColleJ.Bt3vyaX.jpg
+/Volumes/Transcend/Development/dotNet/KanColleJ/KanColleJ/bin/Debug/KanColleJ.exe.mdb
+/Volumes/Transcend/Development/dotNet/KanColleJ/KanColleJ/bin/Debug/KanColleJ.exe
+/Volumes/Transcend/Development/dotNet/KanColleJ/KanColleJ/obj/x86/Debug/KanColleJ.exe
+/Volumes/Transcend/Development/dotNet/KanColleJ/KanColleJ/obj/x86/Debug/KanColleJ.exe.mdb
+/Volumes/Transcend/Development/dotNet/KanColleJ/KanColleJ/obj/x86/Debug/KanColleJ.01300000185581123115303798073.jpg
